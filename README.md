@@ -8,7 +8,7 @@
 ## FORMULA:
 P = I<sup>2</sup>R
 <br> P --> Power (in watts)
-<br> I --> Intensity
+<br> I --> Intensity 
 <br> R --> Resistance
 
 ## DESIGN STEPS:
